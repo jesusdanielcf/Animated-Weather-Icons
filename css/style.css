@@ -75,7 +75,7 @@ h1 {
     background: #37474F;
 }
 
-.cloud-gray {
+.cloud-grey {
     top: 48%;
     left: 56%;
     width: 2.5em;
@@ -91,12 +91,12 @@ h1 {
     animation: cloudEffect 5s linear infinite;
 }
 
-.cloud-gray:after {
+.cloud-grey:after {
     background: #989CA4 !important;
     z-index: 1;
 }
 
-.cloud-gray:before {
+.cloud-grey:before {
     background: #989CA4 !important;
     z-index: 1;
 }
